@@ -1,5 +1,7 @@
 # PixelFocus Classic V1
 
+![Preview](https://cdn.modrinth.com/data/cached_images/8dce491a54e84cf560318990eb249f7d44342a15.png)
+
 PixelFocus Classic V1 is a custom Minecraft crosshair designed for players who appreciate the timeless look of the classic Minecraft crosshair while seeking improved clarity and focus. Its simple and recognizable design blends naturally with the game's interface, making it ideal for both casual and competitive players.
 
 ## Features
